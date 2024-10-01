@@ -26,7 +26,6 @@ public class MuralPainter extends PainterPlus {
     turnAround();
     moveToCorner();
   }
-
   /*
    * Paints a line with the color where the length
    * of the line is specified by spaces
@@ -34,14 +33,13 @@ public class MuralPainter extends PainterPlus {
   public void paintLine(String color, int spaces) {
     setPaint(spaces);
 
-    while (canMove()) {
+    while (hasPaint()) {
       paint(color);
 
       if (canMove()) {
         move();
       }
     }
-    paint(color);
   }
 
   /*
