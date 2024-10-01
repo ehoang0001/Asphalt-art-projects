@@ -3,12 +3,15 @@ import org.code.neighborhood.*;
 public class NeighborhoodRunner {
   public static void main(String[] args) {
 
-    MuralPainter ethan = new MuralPainter();
-        AlienPainter alien = new AlienPainter();
-        StarPainter facer = new StarPainter();
+    MuralPainter kai = new MuralPainter();
+    PyramidPainter tut = new PyramidPainter();
+     CloudPainter suns = new CloudPainter();
+         CloudPainter UFOs = new CloudPainter();
 
-ethan.paintBackground("black", 16);
-alien.paintAlien();
-facer.face();
+kai.paintBackground("blue", 32);
+tut.paintPyramid();
+suns.sun();
+UFOs.UFO();
+
   }
 }
