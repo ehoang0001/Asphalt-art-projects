@@ -33,8 +33,9 @@ while(hasPaint()){
       paint(color);
       move();
       paint(color);
-      //Donut time!!!!!! paint a donut
+      // paint a donut
     }
   }
   
 }
+
