@@ -18,18 +18,18 @@ Use your knowledge of object-oriented programming, algorithms, the problem solvi
 This project was created on Code.org's JavaLab platform using the built in Neightborhood GUI output. To test and edit this project you must build in Code.org's JavaLab with the Neighborhood GUI enabled. For reference to the Painter class documentation, [you can read more here.](https://studio.code.org/docs/ide/javalab/classes/Painter)
 
 ## Output:
-(https://github.com/user-attachments/assets/cfb23f32-4657-4f87-be52-004b84c5e03b)
+![picture](https://github.com/user-attachments/assets/9ed071ef-8725-463b-8232-2c84fc5d367d)
 
 
 ## Reflection
 
 1. Describe your project.
 
-  its a ufo landing on a mountain with a sky backgorund and the sun in the corner
+ its an alien with a smiley face
 
 2. What are two things about your project that you are proud of?
 
-   i did a 32x32 and that i did it pretty fast in like 3 hours
+   i did a 16x16 and that i did it pretty fast in like 3 hours
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 i would like to add more details/ colors
